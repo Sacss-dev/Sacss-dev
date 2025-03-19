@@ -1,5 +1,5 @@
 - Sacss-dev = Olivier C.
-- Étudiant en CPGE au lycée Faidherbe à Lille
+- Étudiant en CPGE au lycée Faidherbe à Lille en MPI*
 
 
 # Projets Personnels
